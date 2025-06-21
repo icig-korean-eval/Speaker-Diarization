@@ -31,22 +31,6 @@ This project implements and evaluates a speaker diarization system using a multi
   - Fine-tune the diarization model using in-domain Korean data.
   - Incorporate additional speaker-specific acoustic features (e.g., prosody, articulation rate).
 
-## ✅ How to Run
-
-1. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-2. Run diarization:
-    ```bash
-    python diarize.py --audio_path path/to/audio.wav
-    ```
-
-3. Output:
-    - `.rttm` file containing speaker-labeled time segments.
-    - Optional visualizations in Jupyter Notebook (`diarization.ipynb`).
-
 
 ## 🔖 References
 
