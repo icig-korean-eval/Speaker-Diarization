@@ -38,3 +38,4 @@ This project implements and evaluates a speaker diarization system using a multi
 - [AI Hub Korean Speech Dataset](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71631)
 
 ---
+Contribution : Kim Minseo
